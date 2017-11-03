@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplikasiChat</string>
+    <string name="desk">Message</string>
+    <string name="name">Name</string>
+    <string name="add">+</string>
+    <string name="konten">Message</string>
+    <string name="user">Name</string>
+    <string name="send">Send</string>
+</resources>
